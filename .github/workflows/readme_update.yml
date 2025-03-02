@@ -27,6 +27,6 @@ jobs:
         run: |
           git add README.md
           git commit -m "Auto-update paper count in README"
-          git push https://x-access-token:${{ secrets.KNOWLEDGE_HUB_TOKEN }}@github.com/BenNguyen1203/Knowledge-Hub.git
+          git push https://x-access-token:${{ secrets.knowledge_hub_token }}@github.com/BenNguyen1203/Knowledge-Hub.git
         env:
           KNOWLEDGE_HUB_TOKEN: ${{ secrets.KNOWLEDGE_HUB_TOKEN }}
