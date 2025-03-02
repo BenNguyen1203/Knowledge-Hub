@@ -8,14 +8,23 @@ The goal of this repository is to:
 - Provide a quick reference for future studies.  
 - Share insights with others who are also exploring similar topics.  
 
-Each monthly folder (`/march_2025`, `/april_2025`, etc.) contains `.md` files summarizing the research papers I read during that period.  
+Each research paper I read is summarized in a Markdown file, where I record the key findings, applications, and my personal takeaways.    
 
 ## 🏷️ Topics Covered  
 This repository focuses on four major research areas:  
 1. **Machine Learning (ML)** 🧠  
 2. **Deep Learning (DL)** 🔥  
 3. **Computer Vision (CV)** 👀  
-4. **Large Language Models (LLMs)** 📝  
+4. **Large Language Models (LLMs)** 📝
+
+## 📝 Research Paper Count  
+This table shows the number of papers I’ve read each month. It is automatically updated with the latest counts.
+
+| Date      | Number of Papers Read |
+|-----------|-----------------------|
+| 03-2025   | 2                     |
+
+*Note: The count is updated dynamically as I read and log new papers every day.*  
 
 ## 🛠️ How to Use This Repo  
 - **Browse by Month:** Check `/march_2025`, `/april_2025`, etc., for summaries.  
@@ -23,7 +32,8 @@ This repository focuses on four major research areas:
 
 ## 🚀 Repository Structure  
 ```plaintext
-📄 README.md       # Overview of this repository
-📂 /MM_YYYY        # Papers read in MM/YYYY
-  📂 research_A.md # Summary of research paper A
-  📂 research_B.md # Summary of research paper B
+📄 README.md         # Overview of this repository
+📂 /YYYY             # Year YYYY
+  📂 /MM             # Month MM
+    📂 research_A.md # Summary of research paper A
+    📂 research_B.md # Summary of research paper B
