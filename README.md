@@ -22,7 +22,7 @@ This table shows the number of papers I’ve read each month. It is automaticall
 
 | Date      | Number of Papers Read |
 |-----------|-----------------------|
-| 03-2025   | 2                     |
+| 03-2025   | To Be Updated Later   |
 
 *Note: The count is updated dynamically as I read and log new papers every day.*  
 
