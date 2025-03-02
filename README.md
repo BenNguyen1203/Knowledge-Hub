@@ -18,13 +18,11 @@ This repository focuses on four major research areas:
 4. **Large Language Models (LLMs)** 📝
 
 ## 📝 Research Paper Count  
-This table shows the number of papers I’ve read each month. It is automatically updated with the latest counts.
+This table shows the number of papers I’ve read each month.
 
 | Date      | Number of Papers Read |
 |-----------|-----------------------|
 | 03-2025   | To Be Updated Later   |
-
-*Note: The count is updated dynamically as I read and log new papers every day.*  
 
 ## 🛠️ How to Use This Repo  
 - **Browse by Month:** Check `/march_2025`, `/april_2025`, etc., for summaries.  
