@@ -30,8 +30,10 @@ This table shows the number of papers I’ve read each month.
 
 ## 🚀 Repository Structure  
 ```plaintext
-📄 README.md         # Overview of this repository
-📂 /YYYY             # Year YYYY
-  📂 /MM             # Month MM
-    📂 research_A.md # Summary of research paper A
-    📂 research_B.md # Summary of research paper B
+📄 README.md           # Overview of this repository
+📂 /Learning-Hub       # All resources that I learn through out the journey
+📂 /Research Paper     # All Research Papers that I read through out the journey
+  📂 /YYYY             # Year YYYY
+    📂 /MM             # Month MM
+      📂 research_A.md # Summary of research paper A
+      📂 research_B.md # Summary of research paper B
