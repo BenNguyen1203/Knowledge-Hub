@@ -22,7 +22,7 @@ This repository focuses on four major research areas:
 This section tracks the number of research papers I have read each month (updated dynamically).  
 | Month        | Papers Read 📄 |
 |-------------|---------------|
-{{ PAPER_COUNT }}
+
 
 <br>
 
