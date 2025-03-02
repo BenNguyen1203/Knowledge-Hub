@@ -10,15 +10,12 @@ The goal of this repository is to:
 
 Each monthly folder (`/march_2025`, `/april_2025`, etc.) contains `.md` files summarizing the research papers I read during that period.  
 
-
 ## 🏷️ Topics Covered  
 This repository focuses on four major research areas:  
 1. **Machine Learning (ML)** 🧠  
 2. **Deep Learning (DL)** 🔥  
 3. **Computer Vision (CV)** 👀  
 4. **Large Language Models (LLMs)** 📝  
-
-<br>
 
 ## 🛠️ How to Use This Repo  
 - **Browse by Month:** Check `/march_2025`, `/april_2025`, etc., for summaries.  
