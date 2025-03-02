@@ -1,0 +1,32 @@
+name: Update Paper Count
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  
+  push:
+    branches:
+      - main  
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Update Paper Count
+        run: |
+          python update_readme.py 
+
+      - name: Commit and Push Changes
+        run: |
+          git add README.md
+          git commit -m "Auto-update paper count in README"
+          git push https://x-access-token:${{ secrets.KNOWLEDGE_HUB_TOKEN }}@github.com/BenNguyen1203/Knowledge-Hub.git
+        env:
+          KNOWLEDGE_HUB_TOKEN: ${{ secrets.KNOWLEDGE_HUB_TOKEN }}
