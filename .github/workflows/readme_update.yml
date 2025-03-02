@@ -1,4 +1,4 @@
-name: Update Paper Count
+name: Knowledge Hub Update Paper Count
 
 on:
   push:
