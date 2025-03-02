@@ -18,12 +18,6 @@ This repository focuses on four major research areas:
 3. **Computer Vision (CV)** 👀  
 4. **Large Language Models (LLMs)** 📝  
 
-## 📊 Research Paper Count  
-This section tracks the number of research papers I have read each month (updated dynamically).  
-| Month        | Papers Read 📄 |
-|-------------|---------------|
-
-
 <br>
 
 ## 🛠️ How to Use This Repo  
