@@ -12,8 +12,6 @@ Ma, Xinghua & Fang, Xinyan & Zou, Mingye & Luo, Gongning & Wang, Wei & Wang, Kua
 
 ## Link: [DOI/PDF link](https://www.researchgate.net/publication/388791141_A_Trusted_Lesion-assessment_Network_for_Interpretable_Diagnosis_of_Coronary_Artery_Disease_in_Coronary_CT_Angiography)
 
-<br>
-
 ## Summary:
 
 <br>
