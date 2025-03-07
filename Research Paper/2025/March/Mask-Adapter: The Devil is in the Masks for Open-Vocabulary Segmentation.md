@@ -19,17 +19,3 @@
   - CVPR 2025
 
 ## Link: [DOI/PDF link](https://github.com/hustvl/MaskAdapter)
-
-## Summary:
-
-<br>
-
-## Key Findings:
-
-<br>
-
-## Applications:
-
-<br>
-
-## Personal Takeaways:
