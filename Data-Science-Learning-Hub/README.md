@@ -5,16 +5,16 @@ Welcome to my **Data Science Learning Progress**! 📊 This repository is my per
 ## 📅 Learning Schedule
 | No | Topic | Notes | Start Date | End Date |
 |----|------|-------|------|-------|
-| 01 | Introduction to Data Science | [Day 1 Notes](Logs/Day-01/Day01.md) | 03/10/2025 | Null |
-| 02 | Supervised, Unsupervised, Semi-Supervised Learning | [Day 2 Notes](Logs/Day-02/Day02.md) | Not Yet Started | Null |
-| 03 | Reinforcement Learning, Data Mining, Deep Learning Architectures | [Day 3 Notes](Logs/Day-03/Day03.md) | Not Yet Started | Null |
-| 04 | Algorithms: Semi-Supervised Learning | [Day 30 Notes](Logs/Day-04/Day04.md) | Not Yet Started | Null |
-| 05 | Deep Learning Packages: PyTorch, TensorFlow, Keras Ecosystem | [Day 30 Notes](Logs/Day-05/Day05.md) | Not Yet Started | Null |
-| 06 | Mini Project 1 | [Day 30 Notes](Logs/Day-06/Day06.md) | Not Yet Started | Null |
-| 07 | Mini Project 2 | [Day 30 Notes](Logs/Day-07/Day07.md) | Not Yet Started | Null |
-| 08 | Mini Project 3 | [Day 30 Notes](Logs/Day-08/Day08.md) | Not Yet Started | Null |
-| 09 | Mini Project 4 | [Day 30 Notes](Logs/Day-09/Day09.md) | Not Yet Started | Null |
-| 10 | Final Project  | [Day 30 Notes](Logs/Day-10/Day10.md) | Not Yet Started | Null |
+| 01 | Introduction to Data Science                                     | [Topic 01 Notes](Logs/Topic-01/Introduction-to-Data-Science.md)                                   | 03/10/2025      | Null |
+| 02 | Supervised, Unsupervised, Semi-Supervised Learning               | [Topic 02 Notes](Logs/Topic-02/Supervised-Unsupervise-Semi-Supervised-Learning.md)                | Null            | Null |
+| 03 | Reinforcement Learning, Data Mining, Deep Learning Architectures | [Topic 03 Notes](Logs/Topic-03/Reinforcement-Learning-Data-Mining-Deep-Learning-Architectures.md) | Null            | Null |
+| 04 | Deep Learning Packages: PyTorch, TensorFlow, Keras Ecosystem     | [Topic 04 Notes](Logs/Topic-04/Deep-Learning-Packages-PyTorch-TensorFlow-Keras-Ecosystem.md)      | Null            | Null |
+| 05 | Mini Project 1                                                   | [Topic 05 Notes](Logs/Topic-05/Mini-Project-1.md)                                                 | Null            | Null |
+| 06 | Mini Project 2                                                   | [Topic 06 Notes](Logs/Topic-06/Mini-Project-2.md)                                                 | Null            | Null |
+| 07 | Mini Project 3                                                   | [Topic 07 Notes](Logs/Topic-07/Mini-Project-3.md)                                                 | Null            | Null |
+| 08 | Mini Project 4                                                   | [Topic 08 Notes](Logs/Topic-08/Mini-Project-4.md)                                                 | Null            | Null |
+| 09 | Mini Project 5                                                   | [Topic 09 Notes](Logs/Topic-09/Mini-Project-5.md)                                                 | Null            | Null |
+| 10 | Final Project                                                    | [Topic 10 Notes](Logs/Topic-10/Final-Project.md)                                                  | Null            | Null |
 
 ## 🏆 Goals
 - Strengthen my Python and SQL skills for data science.
@@ -25,7 +25,7 @@ Welcome to my **Data Science Learning Progress**! 📊 This repository is my per
 ## 📂 Repository Structure
 ```
 📦 Data-Science-Learning-Hub
- ┣ 📂 Logs            # Daily learning notes
+ ┣ 📂 Logs            # Learning notes
  ┣ 📂 Projects        # Mini projects & exercises
  ┣ 📜 README.md       # Main progress tracker (this file)
 ```
