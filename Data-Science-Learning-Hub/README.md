@@ -6,10 +6,10 @@ Welcome to my **Data Science Learning Progress**! 📊 This repository is my per
 | No | Topic | Notes | Start Date | End Date |
 |----|------|-------|------|-------|
 | 01 | Introduction to Data Science | [Day 1 Notes](Logs/Day-01/Day01.md) | 03/10/2025 | Null |
-| 02 | NA | [Day 2 Notes](Logs/Day-02/Day02.md) | Not Yet Started | Null |
-| 03 | NA | [Day 3 Notes](Logs/Day-03/Day03.md) | Not Yet Started | Null |
-| 04 | NA | [Day 30 Notes](Logs/Day-04/Day04.md) | Not Yet Started | Null |
-| 05 | NA | [Day 30 Notes](Logs/Day-05/Day05.md) | Not Yet Started | Null |
+| 02 | Supervised, Unsupervised, Semi-Supervised Learning | [Day 2 Notes](Logs/Day-02/Day02.md) | Not Yet Started | Null |
+| 03 | Reinforcement Learning, Data Mining, Deep Learning Architectures | [Day 3 Notes](Logs/Day-03/Day03.md) | Not Yet Started | Null |
+| 04 | Algorithms: Semi-Supervised Learning | [Day 30 Notes](Logs/Day-04/Day04.md) | Not Yet Started | Null |
+| 05 | Deep Learning Packages: PyTorch, TensorFlow, Keras Ecosystem | [Day 30 Notes](Logs/Day-05/Day05.md) | Not Yet Started | Null |
 | 06 | Mini Project 1 | [Day 30 Notes](Logs/Day-06/Day06.md) | Not Yet Started | Null |
 | 07 | Mini Project 2 | [Day 30 Notes](Logs/Day-07/Day07.md) | Not Yet Started | Null |
 | 08 | Mini Project 3 | [Day 30 Notes](Logs/Day-08/Day08.md) | Not Yet Started | Null |
