@@ -33,7 +33,7 @@ Welcome to my **Data Science Learning Progress**! 📊 This repository is my per
 ## 🎯 How You Can Follow Along
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/BenNguyen1203/30-Day-Data-Science.git
+   git clone https://github.com/BenNguyen1203/Data-Science-Learning-Hub.git
    ```
 2. Explore daily logs and projects.
 3. Join me in this challenge and share your journey!
