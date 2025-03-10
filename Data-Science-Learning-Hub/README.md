@@ -5,7 +5,7 @@ Welcome to my **Data Science Learning Progress**! 📊 This repository is my per
 ## 📅 Learning Schedule
 | No | Topic | Notes | Start Date | End Date |
 |----|------|-------|------|-------|
-| 01 | Introduction to Data Science | [Day 1 Notes](Logs/Day-01/Day_01.md) | 03/10/2025 | Null |
+| 01 | Introduction to Data Science | [Day 1 Notes](Logs/Day-01/Day 01.md) | 03/10/2025 | Null |
 | 02 | NA | [Day 2 Notes](Logs/Day-02/Day_02.md) | Not Yet Started | Null |
 | 03 | NA | [Day 3 Notes](Logs/Day-03/Day_03.md) | Not Yet Started | Null |
 | 04 | NA | [Day 30 Notes](Logs/Day-04/Day_04.md) | Not Yet Started | Null |
