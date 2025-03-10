@@ -9,12 +9,12 @@ Welcome to my **Data Science Learning Progress**! 📊 This repository is my per
 | 02 | Supervised, Unsupervised, Semi-Supervised Learning               | [Topic 02 Notes](Logs/Topic-2/Supervised-Unsupervise-Semi-Supervised-Learning.md)                 | Null            | Null |
 | 03 | Reinforcement Learning, Data Mining, Deep Learning Architectures | [Topic 03 Notes](Logs/Topic-3/Reinforcement-Learning-Data-Mining-Deep-Learning-Architectures.md)  | Null            | Null |
 | 04 | Deep Learning Packages: PyTorch, TensorFlow, Keras Ecosystem     | [Topic 04 Notes](Logs/Topic-4/Deep-Learning-Packages-PyTorch-TensorFlow-Keras-Ecosystem.md)       | Null            | Null |
-| 05 | Mini Project 1                                                   | [Topic 05 Notes](Logs/Topic-5/Mini-Project-1.md)                                                  | Null            | Null |
-| 06 | Mini Project 2                                                   | [Topic 06 Notes](Logs/Topic-6/Mini-Project-2.md)                                                  | Null            | Null |
-| 07 | Mini Project 3                                                   | [Topic 07 Notes](Logs/Topic-7/Mini-Project-3.md)                                                  | Null            | Null |
-| 08 | Mini Project 4                                                   | [Topic 08 Notes](Logs/Topic-8/Mini-Project-4.md)                                                  | Null            | Null |
-| 09 | Mini Project 5                                                   | [Topic 09 Notes](Logs/Topic-9/Mini-Project-5.md)                                                  | Null            | Null |
-| 10 | Final Project                                                    | [Topic 10 Notes](Logs/Topic-10/Final-Project.md)                                                  | Null            | Null |
+| 05 | Mini Project 1                                                   | [Project 01 Notes](Projects/Project-1/Mini-Project-1.md)                                          | Null            | Null |
+| 06 | Mini Project 2                                                   | [Project 02 Notes](Projects/Project-2/Mini-Project-2.md)                                          | Null            | Null |
+| 07 | Mini Project 3                                                   | [Project 03 Notes](Projects/Project-3/Mini-Project-3.md)                                          | Null            | Null |
+| 08 | Mini Project 4                                                   | [Project 04 Notes](Projects/Project-4/Mini-Project-4.md)                                          | Null            | Null |
+| 09 | Mini Project 5                                                   | [Project 05 Notes](Projects/Project-5/Mini-Project-5.md)                                          | Null            | Null |
+| 10 | Final Project                                                    | [Final Project Notes](Projects/Final-Project/Final-Project.md)                                    | Null            | Null |
 
 ## 🏆 Goals
 - Strengthen my Python and SQL skills for data science.
