@@ -1,5 +1,8 @@
 # Source: [PyTorch for Deep Learning & Machine Learning – Full Course](https://www.youtube.com/watch?v=V_xro1bcAuA)
 
+<br>
+
+## Part 1: From topic 1 to topic 11
 ### Definition
 - Machine learning is turning things into numbers and finding patterns in those numbers.
 - **"If you can build a simple rule-based system that doesn't require machine learning, do that."**
@@ -25,3 +28,8 @@
   <br> **Example:** A record of weather forecast (Input) -> Text converted from the record (Output)
 
 ### Different types of learning paradigms
+- Supervised Learning
+- Unsupervised & Self-supervised Learning
+- Transfer Learning
+- Reinforcement Learning
+
