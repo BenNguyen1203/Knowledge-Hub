@@ -1,8 +1,9 @@
 # Source: [PyTorch for Deep Learning & Machine Learning – Full Course](https://www.youtube.com/watch?v=V_xro1bcAuA)
 
+## [Github Resource Repo](https://github.com/mrdbourke/pytorch-deep-learning)
+## [Textbook & Exercise](https://www.learnpytorch.io/)
 <br>
 
-## Part 1: From topic 1 to topic 11
 ### Definition
 - Machine learning is turning things into numbers and finding patterns in those numbers.
 - **"If you can build a simple rule-based system that doesn't require machine learning, do that."**
@@ -32,4 +33,12 @@
 - Unsupervised & Self-supervised Learning
 - Transfer Learning
 - Reinforcement Learning
+
+### Deep Learning Use Cases
+- **Sequence to sequence (seq2seq)**: Translation, Speech recognition, ...
+- **Classification/Regression**: Computer Vision, Natural Language Processing (NLP), ...
+- **Recommendation**
+
+
+
 
