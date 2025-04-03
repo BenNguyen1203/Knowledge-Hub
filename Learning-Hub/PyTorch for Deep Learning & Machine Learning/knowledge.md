@@ -22,7 +22,8 @@
 ### Machine learning vs Deep learning
 - **Common ML algorithms** (since the advent of deep learning these are often referred to as "**shallow algorithms**"): Random forest, Gradient boosted models, Naive Bayes, Nearest neightbour, Support vector machine, ...
 - **Common DL algorithms**: Neural networks, Fully connected neural network, Convolutional neural network, Recurrent neural network, Transformer, ...
-<br> Note: Depending how you represent yourproblem, many algorithms can be used for both structured and unstructured data
+<br> Note: Depending how you represent your problem, many algorithms can be used for both structured and unstructured data
+- Should watch: [All Machine Learning Models Clearly Explained!](https://www.youtube.com/watch?v=0YdpwSYMY6I)
 
 ### Neural networks?
 - Flow: <br> -> Inputs <br> -> Numerical encoding <br> -> Learns representation (patterns/features/weights) - Choose the appropriate neural network for your problem <br> -> Representation outputs <br> -> Human-understandable outputs
